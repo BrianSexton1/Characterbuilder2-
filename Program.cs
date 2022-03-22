@@ -7,8 +7,6 @@ namespace ConsoleApp2
     {
      
        
-    
-
         static void Main(string[] args)
         {
             var classes = new List<string>();
