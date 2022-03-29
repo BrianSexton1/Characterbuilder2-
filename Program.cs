@@ -152,6 +152,8 @@ namespace ConsoleApp2
                     Console.WriteLine("Character creation complete!");
                     System.Threading.Thread.Sleep(3000);
 
+
+
                     /*
                      * 
                      * further idea if needed. 
